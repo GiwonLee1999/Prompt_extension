@@ -36,7 +36,7 @@
     "commands": {
       "trigger-masterprompt": {
         "suggested_key": {
-          "default": "Ctrl+Shift+Y"
+          "default": "Ctrl+Y"
         },
         "description": "Apply MasterPrompt to current ChatGPT input"
       }
